@@ -1,0 +1,64 @@
+
+div.top_nav{
+    text-align: right;
+}
+
+div.top_nav > p {
+    display: inline;
+}
+
+div.container > img{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+}
+
+
+div.icon > img{
+    width:70px;
+    height:70px;
+}
+
+div.icon {
+    text-align: center;
+}
+div.icon>img{
+    margin: 20px;
+}
+div.B{
+    width:100%;
+    position:absolute;
+    bottom:0;
+}
+div.bot_nav1 ,div.bot_nav2{
+    background-color: #c8c8c8;
+    height: 40px;
+    line-height: 40px;
+}
+div.bot_nav1{
+    border: 0.5px solid #727272;
+}
+div.bot_nav1 > span{
+    padding-left:20px;
+    font-size:13px;
+    color: #727272;
+}
+div.bot_nav2 > span.L > span{
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size:13px;
+    color: #727272;
+}
+div.bot_nav2 > span.R > span{
+    float: right;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size:13px;
+    color: #727272;
+
+}
+

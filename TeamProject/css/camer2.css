@@ -1,0 +1,19 @@
+@font-face { font-family: 'KCC-eunyoung'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KCC-eunyoung-Regular.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+.bar{
+    text-align: center;
+    height:15%;
+}
+.bar > p {
+    display: inline-block;
+    margin-right:80px;
+}
+
+#brand{
+    font-size: 50px;
+    font-family: KCC-eunyoung;
+}
+.main > img {
+    width:100%;
+    height: auto;
+}
